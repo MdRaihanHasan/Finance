@@ -13,6 +13,7 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
      *
      * @return void
      */
+
     public function boot()
     {
         parent::boot();
@@ -66,7 +67,10 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
      */
     public function tools()
     {
-        return [];
+        return [
+            \Outl1ne\MenuBuilder\MenuBuilder::make(),
+
+        ];
     }
 
     /**

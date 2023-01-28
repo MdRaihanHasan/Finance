@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b06473d7e6dffc387f7aa6a4fec68013",
+    "content-hash": "3e7a53f5c2d5e6adca5624320ce1b582",
     "packages": [
         {
             "name": "brick/math",
@@ -2840,6 +2840,130 @@
                 }
             ],
             "time": "2023-01-19T13:22:14+00:00"
+        },
+        {
+            "name": "outl1ne/nova-menu-builder",
+            "version": "7.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/outl1ne/nova-menu-builder.git",
+                "reference": "f34945223abd0a150dc26d8499733a8ccf2a8eb8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/outl1ne/nova-menu-builder/zipball/f34945223abd0a150dc26d8499733a8ccf2a8eb8",
+                "reference": "f34945223abd0a150dc26d8499733a8ccf2a8eb8",
+                "shasum": ""
+            },
+            "require": {
+                "doctrine/dbal": ">=2.0.0",
+                "laravel/nova": "^4.0",
+                "outl1ne/nova-translations-loader": "^5.0.0",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^7.0",
+                "phpunit/phpunit": "^9.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Outl1ne\\MenuBuilder\\MenuBuilderServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "files": [
+                    "src/helpers.php"
+                ],
+                "psr-4": {
+                    "Outl1ne\\MenuBuilder\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tarvo Reinpalu",
+                    "email": "tarvoreinpalu@gmail.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Optimist Digital",
+                    "email": "info@optimistdigital.com",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "This Laravel Nova package allows you to create and manage menus and menu items.",
+            "keywords": [
+                "builder",
+                "laravel",
+                "menu",
+                "nova"
+            ],
+            "support": {
+                "issues": "https://github.com/outl1ne/nova-menu-builder/issues",
+                "source": "https://github.com/outl1ne/nova-menu-builder/tree/7.1.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/outl1ne",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-01-16T09:44:37+00:00"
+        },
+        {
+            "name": "outl1ne/nova-translations-loader",
+            "version": "5.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/outl1ne/nova-translations-loader.git",
+                "reference": "a005e37d105473b0cfc4a1586d87bfc7d45ffcba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/outl1ne/nova-translations-loader/zipball/a005e37d105473b0cfc4a1586d87bfc7d45ffcba",
+                "reference": "a005e37d105473b0cfc4a1586d87bfc7d45ffcba",
+                "shasum": ""
+            },
+            "require": {
+                "laravel/framework": "^8.0|^9.0",
+                "laravel/nova": "^4.0",
+                "php": ">=8.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [],
+                    "aliases": []
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Outl1ne\\NovaTranslationsLoader\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "This Laravel Nova package helps developers load translations into their packages.",
+            "keywords": [
+                "laravel",
+                "nova",
+                "optimistdigital",
+                "outl1ne",
+                "translations"
+            ],
+            "support": {
+                "issues": "https://github.com/outl1ne/nova-translations-loader/issues",
+                "source": "https://github.com/outl1ne/nova-translations-loader/tree/5.0.0"
+            },
+            "time": "2022-04-29T14:58:51+00:00"
         },
         {
             "name": "phpoption/phpoption",
