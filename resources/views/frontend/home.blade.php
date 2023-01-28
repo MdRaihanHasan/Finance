@@ -1,7 +1,7 @@
 @extends('frontend.layouts.app')
 
 @section('content')
-  
+
   <section class="banner bg-tertiary position-relative overflow-hidden">
     <div class="container">
       <div class="row align-items-center justify-content-center">
@@ -69,7 +69,7 @@
       </svg>
     </div>
   </section>
-  
+
   <section class="section">
     <div class="container">
       <div class="row">
@@ -86,6 +86,7 @@
               <h3 class="mb-3 service-title">Personal loans</h3>
               <p class="mb-0 service-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
                 eirmod</p>
+                
             </div>
           </a>
         </div>
@@ -101,10 +102,10 @@
         <div class="col-lg-4 col-md-6 service-item">
           <a class="text-black" href="service-details.html">
             <div class="block"> <span class="colored-box text-center h3 mb-4">
-  
-  
+
+
                 03
-  
+
               </span>
               <h3 class="mb-3 service-title">Student Loans</h3>
               <p class="mb-0 service-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -115,10 +116,10 @@
         <div class="col-lg-4 col-md-6 service-item">
           <a class="text-black" href="service-details.html">
             <div class="block"> <span class="colored-box text-center h3 mb-4">
-  
-  
+
+
                 04
-  
+
               </span>
               <h3 class="mb-3 service-title">Mortgage Loans</h3>
               <p class="mb-0 service-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -129,10 +130,10 @@
         <div class="col-lg-4 col-md-6 service-item">
           <a class="text-black" href="service-details.html">
             <div class="block"> <span class="colored-box text-center h3 mb-4">
-  
-  
+
+
                 05
-  
+
               </span>
               <h3 class="mb-3 service-title">Payday Loans</h3>
               <p class="mb-0 service-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -143,7 +144,7 @@
       </div>
     </div>
   </section>
-  
+
   <section class="about-section section bg-tertiary position-relative overflow-hidden">
     <div class="container">
       <div class="row align-items-center">
@@ -197,7 +198,7 @@
       </svg>
     </div>
   </section>
-  
+
   <section class="section">
     <div class="container">
       <div class="row align-items-center justify-content-between">
@@ -254,7 +255,7 @@
       </div>
     </div>
   </section>
-  
+
   <section class="homepage_tab position-relative">
     <div class="section container">
       <div class="row justify-content-center">
@@ -387,7 +388,7 @@
       </div>
     </div>
   </section>
-  
+
   <section class="section testimonials overflow-hidden bg-tertiary">
     <div class="container">
       <div class="row justify-content-center">
@@ -529,7 +530,7 @@
       </svg>
     </div>
   </section>
-  
+
   <section class="section">
     <div class="container">
       <div class="row justify-content-center">
