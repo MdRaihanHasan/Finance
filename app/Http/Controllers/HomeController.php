@@ -14,7 +14,7 @@ class HomeController extends Controller
         $products = Product::all();
 
         $mail = 'itsrahul880@gmail.com';
-	    Mail::to($mail)->send(new TestMail);
+	    Mail::to($mail)->send(new TestMail($products));
 
 	dd('Mail Send Successfully !!');
         return view('frontend.home', compact('products'));
