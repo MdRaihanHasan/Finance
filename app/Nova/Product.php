@@ -4,6 +4,7 @@ namespace App\Nova;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Fields\ID;
+use Laravel\Nova\Fields\Number;
 use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Fields\Textarea;
 use Laravel\Nova\Http\Requests\NovaRequest;
@@ -43,9 +44,11 @@ class Product extends Resource
     {
         return [
             ID::make()->sortable(),
-            Text::make('Number', 'no')->sortable(),
-            Text::make('Title','title')->sortable(),
-            Textarea::make('Sub-title','sub-title')->sortable(),
+            Number::make('Number', 'loan_id')->sortable(),
+            Text::make('Loan Type','loan_type')->sortable(),
+            Textarea::make('Loan Short Description','loan_type_description')->sortable(),
+            Text::make('Loan Title','loan_title')->sortable(),
+            Textarea::make('Loan Description','loan_description')->sortable(),
 
         ];
     }

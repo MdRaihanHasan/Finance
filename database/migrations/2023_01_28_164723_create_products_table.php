@@ -15,9 +15,11 @@ return new class extends Migration
     {
         Schema::create('products', function (Blueprint $table) {
             $table->id();
-            $table->string('no');
-            $table->string('title');
-            $table->string('sub-title');
+            $table->bigInteger('loan_id');
+            $table->string('loan_type');
+            $table->tinyText('loan_type_description');
+            $table->string('loan_title');
+            $table->Text('loan_description');
             $table->timestamps();
         });
     }

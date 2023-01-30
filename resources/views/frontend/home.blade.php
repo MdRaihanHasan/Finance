@@ -80,17 +80,17 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipreiscing elit. Lacus penatibus tincidunt</p>
           </div>
         </div>
+        @foreach ( $products as $product )
         <div class="col-lg-4 col-md-6 service-item">
-          <a class="text-black" href="service-details.html">
-            <div class="block"> <span class="colored-box text-center h3 mb-4">01</span>
-              <h3 class="mb-3 service-title">Personal loans</h3>
-              <p class="mb-0 service-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-                eirmod</p>
-                
+          <a class="text-black" href="service-details">
+            <div class="block"> <span class="colored-box text-center h3 mb-4">{{ $product->loan_id }}</span>
+              <h3 class="mb-3 service-title">{{ $product->loan_type }}</h3>
+              <p class="mb-0 service-description">{{ $product->loan_type_description }}</p>
             </div>
           </a>
         </div>
-        <div class="col-lg-4 col-md-6 service-item">
+        @endforeach
+        {{-- <div class="col-lg-4 col-md-6 service-item">
           <a class="text-black" href="service-details.html">
             <div class="block"> <span class="colored-box text-center h3 mb-4">02</span>
               <h3 class="mb-3 service-title">Home Equity Loans</h3>
@@ -140,7 +140,7 @@
                 eirmod</p>
             </div>
           </a>
-        </div>
+        </div> --}}
       </div>
     </div>
   </section>
