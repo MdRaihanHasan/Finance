@@ -16,7 +16,7 @@ class HomeController extends Controller
         $mail = 'itsrahul880@gmail.com';
 	    Mail::to($mail)->send(new TestMail($products));
 
-	dd('Mail Send Successfully !!');
+	// dd('Mail Send Successfully !!');
         return view('frontend.home', compact('products'));
     }
 }
