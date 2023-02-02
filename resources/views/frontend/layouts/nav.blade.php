@@ -37,7 +37,7 @@
 						</ul>
 					</li>
 				</ul>
-				<!-- account btn --> <a href="#!" class="btn btn-outline-primary">Log In</a>
+				<!-- account btn --> <a href="/nova" class="btn btn-outline-primary">Log In</a>
 				<!-- account btn --> <a href="#!" class="btn btn-primary ms-2 ms-lg-3">Sign Up</a>
 			</div>
 		</div>

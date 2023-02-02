@@ -1,5 +1,7 @@
 @extends('frontend.layouts.app')
-
+@section('title')
+Contact Us - Wallet
+@endsection
 @section('content')
 <section class="page-header bg-tertiary">
 	<div class="container">
@@ -76,7 +78,7 @@
 								<div class="block mt-0">
 									<h4 class="h5">Still Have Questions?</h4>
 									<div class="content">Call Us We Will Be Happy To Help
-										<br> <a href="tel:+3301563965">+3301563965</a> 
+										<br> <a href="tel:+3301563965">+3301563965</a>
 										<br>Monday - Friday
 										<br>9AM TO 8PM Eastern Time</div>
 								</div>

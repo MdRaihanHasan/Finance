@@ -1,5 +1,7 @@
 @extends('frontend.layouts.app')
-
+@section('title')
+legal - Wallet
+@endsection
 @section('content')
 <section class="page-header bg-tertiary">
   <div class="container">

@@ -1,4 +1,7 @@
 @extends('frontend.layouts.app')
+@section('title')
+Blog D - Wallet
+@endsection
 
 @section('content')
 <div class="section">

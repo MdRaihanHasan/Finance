@@ -1,5 +1,9 @@
 @extends('frontend.layouts.app')
 
+@section('title')
+ Home - Wallet
+@endsection
+
 @section('content')
 
   <section class="banner bg-tertiary position-relative overflow-hidden">
