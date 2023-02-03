@@ -1,4 +1,4 @@
 Hi <br/>
-This is Test Mail From Techsolutionstuff.<br />
+This is Test Mail.<br />
 Thank you !!
 {{ $products }}
