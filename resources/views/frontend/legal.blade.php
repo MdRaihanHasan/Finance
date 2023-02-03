@@ -9,9 +9,9 @@ legal - Wallet
       <div class="col-8 mx-auto text-center">
         <h2 class="mb-3 text-capitalize">Legal and Compliance</h2>
         <ul class="list-inline breadcrumbs text-capitalize" style="font-weight:500">
-          <li class="list-inline-item"><a href="index.html">Home</a>
+          <li class="list-inline-item"><a href="index">Home</a>
           </li>
-          <li class="list-inline-item">/ &nbsp; <a href="legal.html">Legal</a>
+          <li class="list-inline-item">/ &nbsp; <a href="legal">Legal</a>
           </li>
         </ul>
       </div>
