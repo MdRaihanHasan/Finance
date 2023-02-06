@@ -21,7 +21,7 @@
         <div class="col-lg-6">
           <div class="ps-lg-5 text-center">
             <img loading="lazy" decoding="async"
-              src="{{ asset('')}}frontend/images/banner/banner.png"
+              src="{{ asset('')}}assets/frontend/images/banner/banner.png"
               alt="banner image" class="w-100">
           </div>
         </div>
@@ -165,7 +165,7 @@
           </div>
         </div>
         <div class="col-lg-7 text-center text-lg-end">
-          <img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/about-us.png" alt="About Ourselves" class="img-fluid">
+          <img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/about-us.png" alt="About Ourselves" class="img-fluid">
         </div>
       </div>
     </div>
@@ -305,7 +305,7 @@
                 <div class="col-md-6 order-0 order-md-1 mb-5 mt-md-0">
                   <div class="image-block text-center">
                     <img loading="lazy" decoding="async"
-                      src="{{ asset('')}}frontend/images/payment-info.png" alt="How Much Can I Recive?" class="img-fluid">
+                      src="{{ asset('')}}assets/frontend/images/payment-info.png" alt="How Much Can I Recive?" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -326,7 +326,7 @@
                 </div>
                 <div class="col-md-6 order-0 order-md-1 mb-5 mt-md-0">
                   <div class="image-block text-center">
-                    <img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/illustration-2.png" alt="How Much Does It Costs?" class="img-fluid">
+                    <img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/illustration-2.png" alt="How Much Does It Costs?" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -347,7 +347,7 @@
                 </div>
                 <div class="col-md-6 order-0 order-md-1 mb-5 mt-md-0">
                   <div class="image-block text-center">
-                    <img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/illustration-1.png" alt="How Do I Repay?" class="img-fluid">
+                    <img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/illustration-1.png" alt="How Do I Repay?" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -410,7 +410,7 @@
           <div class="shadow rounded bg-white p-4 mt-4">
             <div class="d-block d-sm-flex align-items-center mb-3">
               <img loading="lazy" decoding="async"
-                src="{{ asset('')}}frontend/images/testimonials/01.jpg"
+                src="{{ asset('')}}assets/frontend/images/testimonials/01.jpg"
                 alt="Leslie Alexander" class="img-fluid" width="65" height="66">
               <div class="mt-3 mt-sm-0 ms-0 ms-sm-3">
                 <h4 class="h5 mb-1">Leslie Alexander</h4>
@@ -425,7 +425,7 @@
           <div class="shadow rounded bg-white p-4 mt-4">
             <div class="d-block d-sm-flex align-items-center mb-3">
               <img loading="lazy" decoding="async"
-                src="{{ asset('')}}frontend/images/testimonials/02.jpg"
+                src="{{ asset('')}}assets/frontend/images/testimonials/02.jpg"
                 alt="Arlene McCoy" class="img-fluid" width="65" height="66">
               <div class="mt-3 mt-sm-0 ms-0 ms-sm-3">
                 <h4 class="h5 mb-1">Arlene McCoy</h4>
@@ -440,7 +440,7 @@
           <div class="shadow rounded bg-white p-4 mt-4">
             <div class="d-block d-sm-flex align-items-center mb-3">
               <img loading="lazy" decoding="async"
-                src="{{ asset('')}}frontend/images/testimonials/03.jpg"
+                src="{{ asset('')}}assets/frontend/images/testimonials/03.jpg"
                 alt="Marvin McKinney" class="img-fluid" width="65" height="66">
               <div class="mt-3 mt-sm-0 ms-0 ms-sm-3">
                 <h4 class="h5 mb-1">Marvin McKinney</h4>
@@ -455,7 +455,7 @@
           <div class="shadow rounded bg-white p-4 mt-4">
             <div class="d-block d-sm-flex align-items-center mb-3">
               <img loading="lazy" decoding="async"
-                src="{{ asset('')}}frontend/images/testimonials/04.jpg"
+                src="{{ asset('')}}assets/frontend/images/testimonials/04.jpg"
                 alt="Devon Lane" class="img-fluid" width="65" height="66">
               <div class="mt-3 mt-sm-0 ms-0 ms-sm-3">
                 <h4 class="h5 mb-1">Devon Lane</h4>
@@ -470,7 +470,7 @@
           <div class="shadow rounded bg-white p-4 mt-4">
             <div class="d-block d-sm-flex align-items-center mb-3">
               <img loading="lazy" decoding="async"
-                src="{{ asset('')}}frontend/images/testimonials/05.jpg"
+                src="{{ asset('')}}assets/frontend/images/testimonials/05.jpg"
                 alt="Bessie Cooper" class="img-fluid" width="65" height="66">
               <div class="mt-3 mt-sm-0 ms-0 ms-sm-3">
                 <h4 class="h5 mb-1">Bessie Cooper</h4>
@@ -485,7 +485,7 @@
           <div class="shadow rounded bg-white p-4 mt-4">
             <div class="d-block d-sm-flex align-items-center mb-3">
               <img loading="lazy" decoding="async"
-                src="{{ asset('')}}frontend/images/testimonials/06.jpg"
+                src="{{ asset('')}}assets/frontend/images/testimonials/06.jpg"
                 alt="Kathryn Murphy" class="img-fluid" width="65" height="66">
               <div class="mt-3 mt-sm-0 ms-0 ms-sm-3">
                 <h4 class="h5 mb-1">Kathryn Murphy</h4>

@@ -55,7 +55,7 @@ About Us - Wallet
 				</div>
 			</div>
 			<div class="col-lg-4 mt-5 mt-lg-0">
-				<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/about/about-11.jpg" alt="Business Loans &lt;br&gt; For Daily Expenses" class="rounded w-100">
+				<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/about/about-11.jpg" alt="Business Loans &lt;br&gt; For Daily Expenses" class="rounded w-100">
 			</div>
 		</div>
 	</div>
@@ -238,7 +238,7 @@ About Us - Wallet
 			<div class="col-xl-3 col-lg-4 col-md-6 mt-4">
 				<div class="card bg-transparent border-0 text-center">
 					<div class="card-img">
-						<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/about/team-1.jpg" alt="Scarlet Pena" class="rounded w-100" width="300" height="332">
+						<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/about/team-1.jpg" alt="Scarlet Pena" class="rounded w-100" width="300" height="332">
 						<ul class="card-social list-inline">
 							<li class="list-inline-item"><a class="facebook" href="#"><i class="fab fa-facebook"></i></a>
 							</li>
@@ -257,7 +257,7 @@ About Us - Wallet
 			<div class="col-xl-3 col-lg-4 col-md-6 mt-4">
 				<div class="card bg-transparent border-0 text-center">
 					<div class="card-img">
-						<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/about/team-2.jpg" alt="Claire Simmmons" class="rounded w-100" width="300" height="333">
+						<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/about/team-2.jpg" alt="Claire Simmmons" class="rounded w-100" width="300" height="333">
 						<ul class="card-social list-inline">
 							<li class="list-inline-item"><a class="facebook" href="#"><i class="fab fa-facebook"></i></a>
 							</li>
@@ -276,7 +276,7 @@ About Us - Wallet
 			<div class="col-xl-3 col-lg-4 col-md-6 mt-4">
 				<div class="card bg-transparent border-0 text-center">
 					<div class="card-img">
-						<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/about/team-3.jpg" alt="Leslie Pena" class="rounded w-100" width="300" height="333">
+						<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/about/team-3.jpg" alt="Leslie Pena" class="rounded w-100" width="300" height="333">
 						<ul class="card-social list-inline">
 							<li class="list-inline-item"><a class="facebook" href="#"><i class="fab fa-facebook"></i></a>
 							</li>
@@ -295,7 +295,7 @@ About Us - Wallet
 			<div class="col-xl-3 col-lg-4 col-md-6 mt-4">
 				<div class="card bg-transparent border-0 text-center">
 					<div class="card-img">
-						<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/about/team-1.jpg" alt="Scarlet Pena" class="rounded w-100" width="300" height="332">
+						<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/about/team-1.jpg" alt="Scarlet Pena" class="rounded w-100" width="300" height="332">
 						<ul class="card-social list-inline">
 							<li class="list-inline-item"><a class="facebook" href="#"><i class="fab fa-facebook"></i></a>
 							</li>

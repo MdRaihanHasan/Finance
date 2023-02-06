@@ -68,7 +68,7 @@
 		<div class="row align-items-center mt-5 text-center text-md-start">
 			<div class="col-lg-4">
         <a href="index.html">
-          <img loading="prelaod" decoding="async" class="img-fluid" width="160" src="{{ asset('')}}frontend/images/logo.png" alt="Wallet">
+          <img loading="prelaod" decoding="async" class="img-fluid" width="160" src="{{ asset('')}}assets/frontend/images/logo.png" alt="Wallet">
         </a>
 			</div>
 			<div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
@@ -95,13 +95,13 @@
 
 
 <!-- # JS Plugins -->
-<script src="frontend/plugins/jquery/jquery.min.js"></script>
-<script src="frontend/plugins/bootstrap/bootstrap.min.js"></script>
-<script src="frontend/plugins/slick/slick.min.js"></script>
-<script src="frontend/plugins/scrollmenu/scrollmenu.min.js"></script>
+<script src="assets/frontend/plugins/jquery/jquery.min.js"></script>
+<script src="assets/frontend/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="assets/frontend/plugins/slick/slick.min.js"></script>
+<script src="assets/frontend/plugins/scrollmenu/scrollmenu.min.js"></script>
 
 <!-- Main Script -->
-<script src="frontend/js/script.js"></script>
+<script src="assets/frontend/js/script.js"></script>
 
 </body>
 </html>

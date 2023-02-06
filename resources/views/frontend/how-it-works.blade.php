@@ -53,7 +53,7 @@ How - Wallet
 			</div>
 			<div class="col-lg-6 mt-5 mt-lg-0">
 				<div class="has-video-popup position-relative">
-					<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/video-thumb.png" alt="video thumb" class="rounded-lg w-100">
+					<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/video-thumb.png" alt="video thumb" class="rounded-lg w-100">
 					<button type="button" class="video-play-btn border-0 bg-transparent" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/dyZcRRWiuuw" data-bs-target="#videoModal">
 						<svg class="text-primary" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<circle cx="45" cy="45" r="45" fill="currentColor" fill-opacity="0.4" />

@@ -19,9 +19,9 @@ Blog D - Wallet
         </div>
         <div class="mb-5 text-center">
           <div class="post-slider rounded overflow-hidden">
-            <img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
-            <img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-5.jpg" alt="Post Thumbnail">
-            <img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-3.jpg" alt="Post Thumbnail">
+            <img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
+            <img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-5.jpg" alt="Post Thumbnail">
+            <img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-3.jpg" alt="Post Thumbnail">
           </div>
         </div>
         <div class="content">
@@ -206,7 +206,7 @@ Blog D - Wallet
           <hr>
           <h5 id="image">Image</h5>
           <p>
-            <img loading="lazy" decoding="async" class="w-100 d-block mb-4" src="{{ asset('')}}frontend/images/blog/post-4.jpg"
+            <img loading="lazy" decoding="async" class="w-100 d-block mb-4" src="{{ asset('')}}assets/frontend/images/blog/post-4.jpg"
               alt="placeholder image">
             <img loading="lazy" decoding="async" class="w-100 d-block mb-4"
               src="https://dummyimage.com/1100x500/e8e8e8/16161a.jpg" alt="placeholder image">

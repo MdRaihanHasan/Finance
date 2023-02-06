@@ -47,9 +47,9 @@ Blog - Wallet
 						<div class="col-md-6" data-aos="fade">
 							<article class="blog-post">
 								<div class="post-slider slider-sm rounded">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-5.jpg" alt="Post Thumbnail">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-3.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-5.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-3.jpg" alt="Post Thumbnail">
 								</div>
 								<div class="pt-4">
 									<p class="mb-3">15 Mar, 2020</p>
@@ -61,7 +61,7 @@ Blog - Wallet
 						<div class="col-md-6" data-aos="fade">
 							<article class="blog-post">
 								<div class="post-slider slider-sm rounded">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-1.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-1.jpg" alt="Post Thumbnail">
 								</div>
 								<div class="pt-4">
 									<p class="mb-3">14 Mar, 2020</p>
@@ -73,7 +73,7 @@ Blog - Wallet
 						<div class="col-md-6" data-aos="fade">
 							<article class="blog-post">
 								<div class="post-slider slider-sm rounded">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-2.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-2.jpg" alt="Post Thumbnail">
 								</div>
 								<div class="pt-4">
 									<p class="mb-3">14 Mar, 2020</p>
@@ -85,7 +85,7 @@ Blog - Wallet
 						<div class="col-md-6" data-aos="fade">
 							<article class="blog-post">
 								<div class="post-slider slider-sm rounded">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-3.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-3.jpg" alt="Post Thumbnail">
 								</div>
 								<div class="pt-4">
 									<p class="mb-3">14 Mar, 2020</p>
@@ -97,7 +97,7 @@ Blog - Wallet
 						<div class="col-md-6" data-aos="fade">
 							<article class="blog-post">
 								<div class="post-slider slider-sm rounded">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
 								</div>
 								<div class="pt-4">
 									<p class="mb-3">14 Mar, 2020</p>
@@ -109,7 +109,7 @@ Blog - Wallet
 						<div class="col-md-6" data-aos="fade">
 							<article class="blog-post">
 								<div class="post-slider slider-sm rounded">
-									<img loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-5.jpg" alt="Post Thumbnail" width="420" height="280">
+									<img loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-5.jpg" alt="Post Thumbnail" width="420" height="280">
 								</div>
 								<div class="pt-4">
 									<p class="mb-3">14 Mar, 2020</p>
@@ -187,7 +187,7 @@ Blog - Wallet
 						<li class="d-flex widget-post align-items-center">
 							<a class="text-black" href="/blog/elements/">
 								<div class="widget-post-image flex-shrink-0 me-3">
-									<img class="rounded" loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
+									<img class="rounded" loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-4.jpg" alt="Post Thumbnail">
 								</div>
 							</a>
 							<div class="flex-grow-1">
@@ -200,7 +200,7 @@ Blog - Wallet
 						<li class="d-flex widget-post align-items-center">
 							<a class="text-black" href="/blog/post-1/">
 								<div class="widget-post-image flex-shrink-0 me-3">
-									<img class="rounded" loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-1.jpg" alt="Post Thumbnail">
+									<img class="rounded" loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-1.jpg" alt="Post Thumbnail">
 								</div>
 							</a>
 							<div class="flex-grow-1">
@@ -213,7 +213,7 @@ Blog - Wallet
 						<li class="d-flex widget-post align-items-center">
 							<a class="text-black" href="/blog/post-2/">
 								<div class="widget-post-image flex-shrink-0 me-3">
-									<img class="rounded" loading="lazy" decoding="async" src="{{ asset('')}}frontend/images/blog/post-2.jpg" alt="Post Thumbnail">
+									<img class="rounded" loading="lazy" decoding="async" src="{{ asset('')}}assets/frontend/images/blog/post-2.jpg" alt="Post Thumbnail">
 								</div>
 							</a>
 							<div class="flex-grow-1">
