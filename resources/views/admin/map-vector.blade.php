@@ -43,13 +43,13 @@
 
 		<!---Sidemenu css-->
 		<link href="assets/plugins/sidemenu/sidemenu.css" rel="stylesheet">
-		
+
 		<!---Switcher css-->
 		<link href="assets/switcher/css/switcher.css" rel="stylesheet">
 		<link href="assets/switcher/demo.css" rel="stylesheet">	</head>
 
 	<body class="main-body dark-theme">
-	
+
 		<!-- Start Switcher -->
 		<div class="switcher-wrapper">
 			<div class="demo_changer">
@@ -153,7 +153,7 @@
 			</div>
 		</div>
 		<!-- End Switcher -->
-		
+
 		<!-- Loader -->
 		<div id="global-loader">
 			<img src="assets/img/loader.svg" class="loader-img" alt="Loader">
@@ -775,32 +775,12 @@
 			</div>
 			<!-- End Sidebar -->
             		<!-- Main Footer-->
-			<div class="main-footer text-center">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12">
-							<span>Copyright © 2019 <a href="#">Dashlead</a>. Designed by <a href="https://www.spruko.com/">Spruko</a> All rights reserved.</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!--End Footer-->
-		</div>
-		<!-- End Page -->
-		<!-- Back-to-top -->
-		<a href="#top" id="back-to-top"><i class="fe fe-arrow-up"></i></a>
 
-		<!-- Jquery js-->
-		<script src="assets/plugins/jquery/jquery.min.js"></script>
+			 @endsection
 
-		<!-- Bootstrap js-->
-		<script src="assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-		<!-- Ionicons js-->
-		<script src="assets/plugins/ionicons/ionicons.js"></script>
-		
-		<!-- Rating js-->
-		<script src="assets/plugins/rating/jquery.rating-stars.js"></script>
+
+
 
 		<!-- Jqvmap js-->
 <script src="assets/plugins/jqvmap/jquery.vmap.min.js"></script>
@@ -809,25 +789,4 @@
 <script src="assets/plugins/jqvmap/maps/jquery.vmap.canada.js"></script>
 <script src="assets/js/vector-map.js"></script>
 <script src="assets/js/jquery.vmap.sampledata.js"></script>
-		
-		<!-- Perfect-scrollbar js-->
-		<script src="assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
 
-		<!-- Sidemenu js-->
-		<script src="assets/plugins/sidemenu/sidemenu.js"></script>
-		
-		<!-- Sidebar js-->
-		<script src="assets/plugins/sidebar/sidebar.js"></script>
-
-		<!-- Sticky js-->
-		<script src="assets/js/sticky.js"></script>
-		
-		<!-- Switcher js-->
-		<script src="assets/switcher/js/switcher.js"></script>
-		
-		<!-- Custom js-->
-		<script src="assets/js/custom.js"></script>
-
-	
-	</body>
-</html>
