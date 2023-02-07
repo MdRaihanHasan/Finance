@@ -382,7 +382,6 @@
 			<!-- End Sidebar -->
             		<!-- Main Footer-->
 
-			 @endsection
 
 
 
@@ -395,4 +394,5 @@
 <script src="assets/plugins/clipboard/clipboard.js"></script>
 <!-- Prism js-->
 <script src="assets/plugins/prism/prism.js"></script>
+@endsection
 
